@@ -1,0 +1,20 @@
+{
+  "name": "cours-cm2",
+  "version": "1.0.0",
+  "description": "Support de cours pour la classe de CM2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamin-fukdawurld/Cours-CM2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjamin-fukdawurld/Cours-CM2/issues"
+  },
+  "homepage": "https://github.com/benjamin-fukdawurld/Cours-CM2#readme"
+}

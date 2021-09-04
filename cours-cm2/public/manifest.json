@@ -1,0 +1,15 @@
+{
+  "short_name": "Cours CM2",
+  "name": "Ensemble de cours pour la classe de CM2",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
