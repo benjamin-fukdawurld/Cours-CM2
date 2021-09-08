@@ -8,6 +8,7 @@ import theme from "./Theme";
 
 import Sommaire from "./components/Sommaire";
 import Histoire from "./components/histoire/Histoire";
+import Maths from "./components/maths/Maths";
 
 function App() {
   return (
@@ -19,6 +20,9 @@ function App() {
           </Route>
           <Route path="/histoire">
             <Histoire />
+          </Route>
+          <Route path="/maths">
+            <Maths />
           </Route>
         </Switch>
       </Router>

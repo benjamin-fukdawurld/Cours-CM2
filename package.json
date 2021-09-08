@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/benjamin-fukdawurld/Cours-CM2/issues"
   },
-  "homepage": "https://github.com/benjamin-fukdawurld/Cours-CM2#readme"
+  "homepage": "https://github.com/benjamin-fukdawurld/Cours-CM2#readme",
+  "dependencies": {
+    "styled-components": "^5.3.1"
+  }
 }

@@ -21,6 +21,8 @@ export default function Sommaire() {
             }
           />
         </TreeItem>
+        <TreeItem nodeId="3" label={<Link href="/maths">maths</Link>}>
+        </TreeItem>
       </TreeView>
     </Page>
   );
