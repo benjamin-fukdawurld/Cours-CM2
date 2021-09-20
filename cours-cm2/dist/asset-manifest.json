@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43107ac3.chunk.css",
+    "main.js": "/static/js/main.4569df51.chunk.js",
+    "main.js.map": "/static/js/main.4569df51.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.51912959.js",
+    "runtime-main.js.map": "/static/js/runtime-main.51912959.js.map",
+    "static/css/2.679831fc.chunk.css": "/static/css/2.679831fc.chunk.css",
+    "static/js/2.4129dd9c.chunk.js": "/static/js/2.4129dd9c.chunk.js",
+    "static/js/2.4129dd9c.chunk.js.map": "/static/js/2.4129dd9c.chunk.js.map",
+    "static/js/3.ebbfacdf.chunk.js": "/static/js/3.ebbfacdf.chunk.js",
+    "static/js/3.ebbfacdf.chunk.js.map": "/static/js/3.ebbfacdf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.43107ac3.chunk.css.map": "/static/css/main.43107ac3.chunk.css.map",
+    "static/js/2.4129dd9c.chunk.js.LICENSE.txt": "/static/js/2.4129dd9c.chunk.js.LICENSE.txt",
+    "static/media/bastille.a6eac42b.jpg": "/static/media/bastille.a6eac42b.jpg",
+    "static/media/charles-x.714f2a35.jpg": "/static/media/charles-x.714f2a35.jpg",
+    "static/media/clovis.74e32955.jpg": "/static/media/clovis.74e32955.jpg",
+    "static/media/empereur.c1491adc.jpeg": "/static/media/empereur.c1491adc.jpeg",
+    "static/media/louis-phi.0e14362b.jpg": "/static/media/louis-phi.0e14362b.jpg",
+    "static/media/louis-vi.a7b854c1.jpg": "/static/media/louis-vi.a7b854c1.jpg",
+    "static/media/louis-xiv.df79e338.jpg": "/static/media/louis-xiv.df79e338.jpg",
+    "static/media/louis-xviii.5b3e5074.jpg": "/static/media/louis-xviii.5b3e5074.jpg",
+    "static/media/louis-xviii_2.ca1d8677.jpg": "/static/media/louis-xviii_2.ca1d8677.jpg",
+    "static/media/monarchie-juillet.14bda0b8.jpg": "/static/media/monarchie-juillet.14bda0b8.jpg",
+    "static/media/napoleon.95a8cea0.png": "/static/media/napoleon.95a8cea0.png",
+    "static/media/napoleon3.e5884efe.jpg": "/static/media/napoleon3.e5884efe.jpg",
+    "static/media/petain.3aef085c.jpg": "/static/media/petain.3aef085c.jpg",
+    "static/media/proces-louis.4f8c555b.jpg": "/static/media/proces-louis.4f8c555b.jpg",
+    "static/media/republique3.eb09d1ae.jpg": "/static/media/republique3.eb09d1ae.jpg",
+    "static/media/revolution2.6432484e.jpg": "/static/media/revolution2.6432484e.jpg",
+    "static/media/sacre-napoleon3.c012ef47.jpg": "/static/media/sacre-napoleon3.c012ef47.jpg",
+    "static/media/serment-napoleon3.309cc066.jpg": "/static/media/serment-napoleon3.309cc066.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51912959.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.4129dd9c.chunk.js",
+    "static/css/main.43107ac3.chunk.css",
+    "static/js/main.4569df51.chunk.js"
+  ]
+}
