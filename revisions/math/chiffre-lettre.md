@@ -1,28 +1,28 @@
 # Mathématiques - Des chiffres et des lettres
 
-## Écrire en chiffres:
+## Écrire en chiffres :
 
-1. Quatre-cents
+1. Quatre cents
 2. Huit cent vingt-trois
 3. Sept mille deux cent cinquante-et-un
 4. Huit cent mille quatre-vingts
 
-## Écrire en lettres:
+## Écrire en lettres :
 
 1. 26
 2. 952
 3. 8 502
 4. 37 312
 
-## Dans le nombre 40 523
+## Dans le nombre 40 523 :
 
 1. Quel est le chiffre des dizaines de mille ?
 2. Quel est le chiffre des unités ?
-3. Quel est le chiffre des centaine ?
+3. Quel est le chiffre des centaines ?
 4. Combien de dizaines comporte ce nombre ?
 5. Combien de milliers comporte ce nombre ?
 
-Range les nombres suivant:
+## Range les nombres suivants:
 
 - 1, 12, 0, 1036, 88, 45, 760  
   Dans l'ordre croissant.
@@ -30,7 +30,7 @@ Range les nombres suivant:
 - 99, 250, 77, 80602, 123  
   Dans l'ordre décroissant.
 
-## Complète les phrases avec les mots
+## Complète les phrases avec les mots :
 
 Utilise les expressions suivantes pour compléter les phrases: _plus grand que_, _plus petit que_, _égale à_.
 
@@ -42,9 +42,9 @@ Utilise les expressions suivantes pour compléter les phrases: _plus grand que_,
 
 ## Quel est le dixième d’une centaine ? Quel est le centième d’une dizaine ?
 
-## Décompose les fraction suivante en un entier et une fraction inférieur à 1
+## Décompose les fractions suivantes en un entier et une fraction inférieur à 1
 
-Exemple:
+Exemple :
 27/5 = 5 + 2/5
 
 - 33/9

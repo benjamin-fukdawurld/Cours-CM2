@@ -1,0 +1,36 @@
+type Component {
+  tag: String
+}
+
+type Page {
+  components: [Component]
+}
+
+type Lesson {
+  title: String!
+  author: String!
+  subtitles: [String]
+}
+
+type Subject {
+  name: String!
+}
+
+type Student {
+  id: ID!
+  firstName: String!
+  lastName: String!
+  birthDate: String!
+  currentClass: SchoolClass
+}
+
+type SchoolClass {
+  name: String!
+  year: String!
+  students: [Students]
+}
+
+type Query {
+  students: [Student!]!
+  schoolClasses: [SchoolClass!]!
+}

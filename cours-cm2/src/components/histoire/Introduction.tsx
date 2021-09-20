@@ -16,17 +16,17 @@ export default function Introduction(props: any) {
               </Button>
             </li>
             <li>
-              <Button href="/histoire/temps-de-la-republique" color="primary">
-                La République française: citoyenneté et démocratie
+              <Button href="/histoire/citoyennete-democratie" color="primary">
+                La République française : citoyenneté et démocratie
               </Button>
             </li>
             <li>
-              <Button href="/histoire/temps-de-la-republique" color="primary">
+              <Button href="/histoire/jules-ferry" color="primary">
                 Jules Ferry et l'école primaire
               </Button>
             </li>
             <li>
-              <Button href="/histoire/temps-de-la-republique" color="primary">
+              <Button href="/histoire/empire-colonial" color="primary">
                 La constitution de l'empire colonial français
               </Button>
             </li>

@@ -4,9 +4,9 @@
 
 Les mots sont classés en différentes catégories (verbes, noms, pronoms, adjectif, etc.).
 
-La nature d'un mot c'est dire à quelle catégorie il appartient.
+La nature d'un mot, c'est dire à quelle catégorie il appartient.
 
-Exemple:
+Exemple :
 
 - Les enfants jouent dans leur chambre.
   - enfants et chambre sont des noms
@@ -16,7 +16,7 @@ Tous les mots ont une nature.
 
 ## Qu'est-ce que la fonction d'un mot
 
-Tous les mots d'une phrase on un rôle précis. C'est ce qu'on appelle la fonction du mot.
+Tous les mots d'une phrase ont un rôle précis. C'est ce qu'on appelle la fonction du mot.
 
 Exemple:
 

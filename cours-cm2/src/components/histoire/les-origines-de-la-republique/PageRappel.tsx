@@ -40,8 +40,9 @@ export default function PageRappel(props: any) {
               <br />À la fin du XVIII siècle, l'augmentation des prix, de mauvaises récoltes, des
               tensions entre le tiers état et les autres ordres (clergés et noblesse) poussent le
               peuple à se soulever. Ce soulèvement incite le roi de France, Louis XVI, à accepter
-              d'écouter les plaintes du peuple. Ce sont les cahiers de doléances. Des états généraux
-              sont convoqués sur ordre du roi et des réformes du régime sont envisagées.
+              recueillir les demandes du peuple. Des états généraux sont convoqués sur ordre du roi,
+              les plaintes du peules sont inscrite dans ce que l'on appelle les cahiers de
+              doléances. Des réformes du régime sont envisagées.
             </p>
 
             <p>

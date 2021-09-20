@@ -6,22 +6,22 @@ Le complément d'objet est déterminé par sa position dans la phrase et la mani
 ## Le complément d'objet direct
 
 Le complément d'objet direct ou C.O.D. fait partie du groupe verbal.
-I désigne l'objet de l'action. Il n'est jamais introduit par une préposition.
+Il désigne l'objet de l'action. Il n'est jamais introduit par une préposition.
 
 Il peut s'agir d'un nom, d'un groupe nominal, d'un pronom, d'un verbe à l'infinitif ou d'une proposition subordonnée.
 
-Le complément d'objet direct réponds aux questions suivantes:
+Le complément d'objet direct réponds aux questions suivantes :
 
 **SUJET + VERBE + QUI ?**
 
-Exemple:  
-Julien attend **son frère** .
+Exemple :  
+Julien attend **son frère**.
 
 Julien (le sujet) attend (le verbe) **son frère (qui ?)**
 
 **SUJET + VERBE + QUOI ?**
 
-Exemple:  
+Exemple :  
 Maxime mange **une pomme**.
 
 Maxime (le sujet) mange (le verbe) **une pomme (quoi ?)**
@@ -30,7 +30,7 @@ Maxime (le sujet) mange (le verbe) **une pomme (quoi ?)**
 
 Le C.O.D. est généralement après le verbe sauf si c'est un pronom.
 
-Exemple:  
+Exemple :  
 Maxime **la** mange.
 
 Maxime (le sujet) **la (la pomme) (quoi ?)** mange (le verbe).
@@ -45,11 +45,11 @@ Il suit généralement le verbe qu'il complète mais il est introduit par une pr
 
 Il peut s'agir d'un nom, d'un groupe nominal, d'un pronom, d'un verbe à l'infinitif ou d'une proposition subordonnée.
 
-Le complément d'objet indirect réponds aux questions suivantes:
+Le complément d'objet indirect réponds aux questions suivantes :
 
 **SUJET + VERBE + À QUI ?**
 
-Exemple:  
+Exemple :  
 Maxime téléphone **à son ami** .
 
 Maxime (le sujet) téléphone (le verbe) **à son ami (à qui ?)**
@@ -64,17 +64,17 @@ Virginie (le sujet) pense (le verbe) **à ses vacances (à quoi ?)**
 **SUJET + VERBE + DE QUI ?**
 
 Exemple:  
-Maxime parle **de son ami** .
+Maxime parle **de son ami**.
 
 Maxime (le sujet) parle (le verbe) **de son frère (de qui ?)**
 
-D'autre question sont possible en fonction de la préposition utilisée
+D'autres questions sont possible, en fonction de la préposition utilisée
 
 ### La place du C.O.I. dans la phrase
 
 Le C.O.I. est généralement après le verbe sauf si c'est un pronom.
 
-Exemple:  
+Exemple :  
 Maxime **en** parle souvent.
 
 Maxime (le sujet) **en (quoi ?)** parle (le verbe) souvent.

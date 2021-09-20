@@ -18,6 +18,6 @@
 4. Quelle précaution doit-on prendre si l'on a touché un crapaud ?
 5. Peut-on manger des cuisses de grenouille dans tous les pays ?
 6. Le venin du crapaud est-il dangereux pour l'homme ?
-7. Presque toutes les grenouilles ont une tache noire, à quel endroit ?
+7. Presque toutes les grenouilles ont une tâche noire, à quel endroit ?
 8. Qu'est-ce qui permet aux œufs de la grenouille de remonter à la surface ?
 9. Où se trouve l'oreille de la grenouille ?

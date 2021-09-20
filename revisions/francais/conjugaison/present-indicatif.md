@@ -1,8 +1,8 @@
 # Conjugaison - Présent de l'indicatif
 
-## Les verbes du premier groupe:
+## Les verbes du premier groupe :
 
-Au présent de l'indicatif les verbes se conjuguent comme le verbe chanter:
+Au présent de l'indicatif les verbes se conjuguent comme le verbe chanter :
 
 - je chant**e**
 - tu chant**es**
@@ -13,9 +13,9 @@ Au présent de l'indicatif les verbes se conjuguent comme le verbe chanter:
 
 Essaie de conjuguer le verbe danser.
 
-## Les verbes du deuxième groupe:
+## Les verbes du deuxième groupe :
 
-Les verbes du deuxième groupe se conjuguent comme le verbe finir:
+Les verbes du deuxième groupe se conjuguent comme le verbe finir :
 
 - je fini**s**
 - tu fini**s**

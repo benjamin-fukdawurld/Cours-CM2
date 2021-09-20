@@ -1,10 +1,10 @@
 # Grammaire - Le complément circonstanciel
 
-Le complément circonstanciel est un mot ou un groupe de mots qui apporte des précisions sur les circonstances de l'action exprimée par la phrase.
+Le complément circonstanciel est un mot ou un groupe de mots qui apportent des précisions sur les circonstances de l'action exprimée par la phrase.
 
 Il peut s'agir d'un nom, d'un adverbe, d'un verbe à l'infinitif ou d'une proposition.
 
-Exemples:
+Exemples :
 
 - **La nuit** tous les chats sont gris.
 - Je suis Parti **avec eux**.
@@ -13,18 +13,18 @@ Exemples:
 - Ils marchent **en chantant**.
 - Nous resterons **jusqu'à ce que tu ailles mieux**.
 
-Certains compléments sont introduits par une préposition mais ce n'est pas toujours le cas, notamment avec les adverbes.
+Certains compléments sont introduits par une préposition, mais ce n'est pas toujours le cas, notamment avec les adverbes.
 
-Exemples:
+Exemples :
 
 - Nous partons **à huit heures**.
 - Nous partons **maintenant**.
 
 ### Les différentes catégories de compléments circonstanciels
 
-On distingue plusieurs catégories de compléments circonstanciels **selon leur sens** : les compléments circonstanciels de temps, de lieu, de manière etc.
+On distingue plusieurs catégories de compléments circonstanciels **selon leur sens** : les compléments circonstanciels de temps, de lieu, de manière, etc.
 
-Exemples:
+Exemples :
 
 - **Demain**, j'irai à la piscine.
   - « Demain » est un complément circonstanciel de temps.
